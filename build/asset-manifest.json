@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travisp82/a3-app/static/css/main.778cb807.chunk.css",
+    "main.js": "/travisp82/a3-app/static/js/main.db9f30e7.chunk.js",
+    "main.js.map": "/travisp82/a3-app/static/js/main.db9f30e7.chunk.js.map",
+    "runtime-main.js": "/travisp82/a3-app/static/js/runtime-main.fd09f959.js",
+    "runtime-main.js.map": "/travisp82/a3-app/static/js/runtime-main.fd09f959.js.map",
+    "static/js/2.480a9f6f.chunk.js": "/travisp82/a3-app/static/js/2.480a9f6f.chunk.js",
+    "static/js/2.480a9f6f.chunk.js.map": "/travisp82/a3-app/static/js/2.480a9f6f.chunk.js.map",
+    "static/js/3.564a2b64.chunk.js": "/travisp82/a3-app/static/js/3.564a2b64.chunk.js",
+    "static/js/3.564a2b64.chunk.js.map": "/travisp82/a3-app/static/js/3.564a2b64.chunk.js.map",
+    "index.html": "/travisp82/a3-app/index.html",
+    "static/css/main.778cb807.chunk.css.map": "/travisp82/a3-app/static/css/main.778cb807.chunk.css.map",
+    "static/js/2.480a9f6f.chunk.js.LICENSE.txt": "/travisp82/a3-app/static/js/2.480a9f6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd09f959.js",
+    "static/js/2.480a9f6f.chunk.js",
+    "static/css/main.778cb807.chunk.css",
+    "static/js/main.db9f30e7.chunk.js"
+  ]
+}
